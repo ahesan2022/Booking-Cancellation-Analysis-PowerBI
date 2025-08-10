@@ -18,3 +18,7 @@ Power BI – Data visualization and dashboard creation
 Power Query – Data cleaning and transformation
 DAX – Calculated measures and advanced metrics
 Excel/CSV – Data source
+
+Screenshots:
+<img width="1180" height="645" alt="image" src="https://github.com/user-attachments/assets/9979a605-8514-485f-a1ac-cb7707806999" />
+
